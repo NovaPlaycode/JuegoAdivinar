@@ -1,10 +1,10 @@
 # 🎮 Number Guessing Game / Juego de Adivinar el Número
 
-> **Goal / Objetivo:** Become a VR & Game Developer in the US 🇺🇸 | Futuro desarrollador de VR y Videojuegos en EE. UU.
+> **Goal / Objetivo:** Become a VR & Game Developer in the US 🇺🇸 | Futuro desarrollador de VR y Videojuegos en USA
 
 ---
 
-## 🇺🇸 English Version
+## English Version
 
 This is my third functional project in C#. I am a 17-year-old student from Spain building my technical path toward the US tech scene. This project focuses on **logic flow**, **input validation**, and **game loops**.
 
@@ -30,7 +30,7 @@ This is my third functional project in C#. I am a 17-year-old student from Spain
 
 ## 🇪🇸 Versión en Español
 
-Este es mi tercer proyecto funcional en C#. Soy un estudiante de 17 años de España con la meta clara de convertirme en desarrollador de VR y Videojuegos en EE. UU. Este proyecto se centra en el **flujo lógico**, **validación de datos** y **bucles de juego**.
+Este es mi tercer proyecto funcional en C#. Soy un estudiante de 17 años de España con la meta clara de convertirme en desarrollador de VR y Videojuegos en USA. Este proyecto se centra en el **flujo lógico**, **validación de datos** y **bucles de juego**.
 
 ### 🧠 Mi camino de aprendizaje / Lo que he aprendido:
 
@@ -47,8 +47,8 @@ Este es mi tercer proyecto funcional en C#. Soy un estudiante de 17 años de Esp
 - [ ] **Grado Medio SMR**: Empezar a los 18 para dominar sistemas y redes.
 - [ ] **Grado Superior DAM**: Aprender a programar a nivel profesional y arquitectura.
 - [ ] **Máster Especializado**: Realizar un **Máster en Desarrollo de Videojuegos y VR**.
-- [ ] **El Salto**: Entrar en una multinacional (tipo **Indra**) para conseguir traslado a EE. UU.
-- [ ] **El Sueño**: ¡Programar juegos de alto nivel viviendo en EE. UU.! 🏰
+- [ ] **El Salto**: Entrar en una multinacional (tipo **Indra**) para conseguir traslado a USA.
+- [ ] **El Sueño**: ¡Programar juegos de alto nivel viviendo en USA! 🏰
 
 ---
 
