@@ -23,7 +23,7 @@ This is my third functional project in C#. I am a 17-year-old student from Spain
 - [ ] **SMR (Systems & Networks)**: Starting at 18 to master hardware and networks.
 - [ ] **DAM (App Development)**: Learning professional coding and software architecture.
 - [ ] **Specialized Master's**: Degree in **Video Game Development and VR**.
-- [ ] **The Jump**: Join a global tech company (like **Indra**) to secure a US visa.
+- [ ] **The Jump**: Join a global tech company  to secure a US visa.
 - [ ] **The Dream**: Coding top-tier VR experiences in the US! 🏰
 
 ---
@@ -47,7 +47,7 @@ Este es mi tercer proyecto funcional en C#. Soy un estudiante de 17 años de Esp
 - [ ] **Grado Medio SMR**: Empezar a los 18 para dominar sistemas y redes.
 - [ ] **Grado Superior DAM**: Aprender a programar a nivel profesional y arquitectura.
 - [ ] **Máster Especializado**: Realizar un **Máster en Desarrollo de Videojuegos y VR**.
-- [ ] **El Salto**: Entrar en una multinacional (tipo **Indra**) para conseguir traslado a USA.
+- [ ] **El Salto**: Entrar en una multinacional  para conseguir traslado a USA.
 - [ ] **El Sueño**: ¡Programar juegos de alto nivel viviendo en USA! 🏰
 
 ---
